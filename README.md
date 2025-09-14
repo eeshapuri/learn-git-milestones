@@ -281,7 +281,7 @@ Row | Step | Description | Completed
 5 | 4-1 | 2nd Favorite emoji | 👿
 6 | 4-2 | Link to `commit #2 from Github Desktop` | https://github.com/omundy/learn-git-milestones/commit/b6ab5640eca9bfcca624d84d928769c1cfd03cdc
 7 | 5-1 | Full path to your working directory | /Users/mac/documents/github/learn-git-milestones
-8 | 5-2 | Link to `commit #3 from CLI` |
+8 | 5-2 | Link to `commit #3 from CLI` | https://github.com/omundy/learn-git-milestones/commit/1fbd71be88c6a8a85792016944d7a5f7ae3c594d
 9 | 6-1 | Link to `first-website` github.com repo page |
 10 | 7-1 | Link to `first-website` github.io "project site" |
 
