@@ -277,7 +277,7 @@ Row | Step | Description | Completed
 1 | 3-1 | 1st Favorite emoji | 👘
 2 | 3-2 | Link to `commit #1 from Github.com` | https://github.com/omundy/learn-git-milestones/commit/98a9a0cd76f2578c3f01f5887f3ed954d0c76a8f
 3 | 3-3 | Link to markdown tables docs | https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
-4 | 3-4 | What does `log` do? |
+4 | 3-4 | What does `log` do? | It shows a log of everything your commits
 5 | 4-1 | 2nd Favorite emoji |
 6 | 4-2 | Link to `commit #2 from Github Desktop` |
 7 | 5-1 | Full path to your working directory |
