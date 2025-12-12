@@ -364,7 +364,7 @@ Forking, branching, pull requests
 
 Row | Step | Description | Completed
 --- | --- | --- | ---
-11 | 8-1 | What is in Owen's dev branch? | 
+11 | 8-1 | What is in Owen's dev branch? | Advanced Git Milestones, a list of git commands, a license, the Never Gonna Give You Up music video, and the original README file.
 12 | 9-1 | Link to your new branch on github.com | 
 13 | 10-1 | Link to your network graph | 
 14 | 11-1 | Link to the PR you made on a partner's github.com repo | 
